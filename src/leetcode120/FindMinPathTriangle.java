@@ -3,7 +3,7 @@ package leetcode120;
 import java.util.List;
 
 public class FindMinPathTriangle {
-	// Dp bottom up approach
+	// Dp bottom up approach, patterms
     public int minimumTotal(List<List<Integer>> triangle) {
         int totalRows = triangle.size();
         
